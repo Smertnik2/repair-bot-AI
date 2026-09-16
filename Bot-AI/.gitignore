@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.json
+*.db
+*.sqlite
+database/
+device_*.jpg
+leads/
+repairfix
+*.xlsx
+orders.json

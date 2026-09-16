@@ -1,0 +1,10 @@
+python-telegram-bot[all]
+google-genai
+google-generativeai
+Pillow
+qrcode[pil]
+openpyxl
+python-dotenv
+gspread
+oauth2client
+reportlab
